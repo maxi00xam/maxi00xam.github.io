@@ -9,22 +9,6 @@ Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https:/
 
 [![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
 
-## Why Jekyll with GitBook
-
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-
-## How to Get Started
-
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
-
-
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
-
 [Disqus](https://disqus.com/) comments can be enabled by adding the following configuration in `_config.yaml`:
 
 ```yaml
@@ -45,8 +29,6 @@ The fonts can be customized by modifying the `.book.font-family-0` and `.book.fo
 ```
 
 ## Cover image inside pages
-
-
 
 [https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
 
