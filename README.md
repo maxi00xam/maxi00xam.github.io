@@ -11,27 +11,6 @@ Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https:/
 
 [Disqus](https://disqus.com/) comments can be enabled by adding the following configuration in `_config.yaml`:
 
-```yaml
-disqushandler: "<YOUR DISQUS SHORTNAME>"
-```
-
-## Customizing font settings
-
-The fonts can be customized by modifying the `.book.font-family-0` and `.book.font-family-1` entry in [`./assets/gitbook/custom.css`][10],
-
-```css
-.book.font-family-0 {
-    font-family: Georgia, serif;
-}
-.book.font-family-1 {
-    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-```
-
-## Cover image inside pages
-
-[https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html](https://sighingnow.github.io/jekyll-gitbook/jekyll/2022-05-24-page_cover.html)
-
 ## License
 
 This work is open sourced under the Apache License, Version 2.0.
